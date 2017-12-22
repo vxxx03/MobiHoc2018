@@ -13,3 +13,6 @@ The command above will start 10 flows in the network as written in anglova_paths
 ## Result
 The configuration files containing selected backup paths can be found in the folder ./local_conf.
 The ping results are recorded in the folder ./ping_results.
+
+## Topology Dataset
+Please unzip anglova_topo_c.zip to get the topology file for emulation. This data set is provided by The Network Science Research Laboratory of ARL. For more information, please visit http://www.arl.army.mil/nsrl and https://www.ihmc.us/nomads/scenarios/.
